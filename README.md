@@ -97,6 +97,17 @@ Current release includes:
 
 ---
 
+## License
+
+This dataset is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+- Free for research and educational purposes
+- Must provide attribution
+- No commercial use
+- Cannot be sold or used in commercial products
+
+---
+
 ## Citation
 
 If you use this dataset or methodology in your research, please cite:
