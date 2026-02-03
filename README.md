@@ -47,6 +47,8 @@ Our system processes images through four main stages:
 
 ## Dataset
 
+Available at: https://doi.org/10.5281/zenodo.18396680 
+
 We provide the raw sensor data and ground truth measurements collected from Kansas field trials:
 
 ### Available Files
@@ -110,7 +112,7 @@ This dataset is released under the [Creative Commons Attribution-NonCommercial-S
 
 ## Citation
 
-If you use this dataset or methodology in your research, please cite:
+If you use the methodology on the paper, please cite:
 
 ```bibtex
 @INPROCEEDINGS {11147682,
@@ -128,4 +130,21 @@ url = {https://doi.ieeecomputersociety.org/10.1109/CVPRW67362.2025.00537},
 publisher = {IEEE Computer Society},
 address = {Los Alamitos, CA, USA},
 month =Jun}
+```
+
+If you use the dataset, please cite:
+```bibtex
+@dataset{cisdeli_2026_18396680,
+  author       = {Cisdeli, Pedro and
+                  Ciampitti, Ignacio},
+  title        = {Dataset - Maize Ear Sensing Dataset for On-Farm
+                   Yield Predictions
+                  },
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = 1,
+  doi          = {10.5281/zenodo.18396680},
+  url          = {https://doi.org/10.5281/zenodo.18396680},
+}
 ```
